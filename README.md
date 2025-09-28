@@ -89,12 +89,15 @@ Works offline - storing the last updated advice when internet isn’t available.
  3.Society: Improves rural livelihoods, food security, and reduces environmental impact.
  
 ## Research & References
-AI and IoT Integration: Sharma et al. (2024) discuss the transformative role of AI and IoT in precision agriculture 
+
+  **AI and IoT Integration: Sharma et al. (2024) discuss the transformative role of AI and IoT in precision agriculture 
 ScienceDirect
-.
-Economic Impact: A study by Leher AgriTech highlights the economic benefits of smart farming practices 
+
+
+  **Economic Impact: A study by Leher AgriTech highlights the economic benefits of smart farming practices 
 Leher.ag
+
 .
-System Design: ResearchGate publication provides insights into the architecture of crop advisory systems 
+  **System Design: ResearchGate publication provides insights into the architecture of crop advisory systems 
 JETIR
 .
