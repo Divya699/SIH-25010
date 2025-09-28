@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:26.09.2025
+## Register Number:25018016
+## Name: Divyapriya S
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,31 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<img width="867" height="441" alt="image" src="https://github.com/user-attachments/assets/7f18e175-601f-479a-82b8-95ef2f630d97" />
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+ 1.IoT Sensors: Soil moisture, temperature, humidity, and nutrient sensors.
+
+ 2.Cloud Computing: AWS/Azure for data storage and processing.
+
+ 3.Machine Learning: TensorFlow/PyTorch for crop recommendation and pest detection.
+
+ 4.Web & Mobile App: React Native/Flutter for cross-platform apps.
+
+ 5.APIs: Weather API, Market price API for real-time data.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+ 1.Technical: Uses IoT sensors, cloud storage, ML models, and mobile/web apps.
+
+ 2.Operational: Simple interface, local language support, minimal training for farmers.
+
+ 3.Economic: Low initial cost; higher yield and reduced losses increase farmer income; scalable to multiple regions.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+ 1.Farmers: Better yield, early pest/weather alerts, optimal crop and market decisions.
 
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+ 2.Agriculture Sector: Promotes precision farming, sustainable practices, data for planning.
+
+ 3.Society: Improves rural livelihoods, food security, and reduces environmental impact.
+
+
