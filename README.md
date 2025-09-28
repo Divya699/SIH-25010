@@ -41,7 +41,24 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<img width="867" height="441" alt="image" src="https://github.com/user-attachments/assets/7f18e175-601f-479a-82b8-95ef2f630d97" />
+
+The idea is to create a multilingual mobile app that acts as a digital assistant for small farmers. Instead of being overloaded with complex data, the farmer will just open the app or talk to it and receive simple, practical advice in their own language.
+
+The app can:
+
+Suggest which crops are suitable for their soil and season.
+Provide fertilizer and soil health tips in a farmer-friendly way.
+Alert about weather changes before they happen.
+Identify pests or diseases from photos uploaded by the farmer and suggest remedies.
+Give market price updates from nearby markets to avoid exploitation by middlemen.
+Since many farmers struggle with reading, the app will also provide voice support and large icons for easy navigation.
+
+Features that make this idea unique:
+
+Acts as a personal guide, not just a data source.
+Gives predictive suggestions. For example, Rain expected next week, delay irrigation today.
+Has a feedback loop - farmer responses help improve the app continuously.
+Works offline - storing the last updated advice when internet isn’t available.
 
 ## Technical Approach
  1.IoT Sensors: Soil moisture, temperature, humidity, and nutrient sensors.
@@ -53,6 +70,9 @@ Agriculture, FoodTech & Rural Development
  4.Web & Mobile App: React Native/Flutter for cross-platform apps.
 
  5.APIs: Weather API, Market price API for real-time data.
+
+ <img width="817" height="666" alt="Screenshot 2025-09-28 174336" src="https://github.com/user-attachments/assets/57a77113-b1f3-41a4-9c9d-adeb1d94676a" />
+
 
 ## Feasibility and Viability
  1.Technical: Uses IoT sensors, cloud storage, ML models, and mobile/web apps.
@@ -67,5 +87,14 @@ Agriculture, FoodTech & Rural Development
  2.Agriculture Sector: Promotes precision farming, sustainable practices, data for planning.
 
  3.Society: Improves rural livelihoods, food security, and reduces environmental impact.
-
-
+ 
+## Research & References
+AI and IoT Integration: Sharma et al. (2024) discuss the transformative role of AI and IoT in precision agriculture 
+ScienceDirect
+.
+Economic Impact: A study by Leher AgriTech highlights the economic benefits of smart farming practices 
+Leher.ag
+.
+System Design: ResearchGate publication provides insights into the architecture of crop advisory systems 
+JETIR
+.
