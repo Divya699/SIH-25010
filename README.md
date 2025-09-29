@@ -97,7 +97,7 @@ ScienceDirect
   **Economic Impact: A study by Leher AgriTech highlights the economic benefits of smart farming practices 
 Leher.ag
 
-.
+
   **System Design: ResearchGate publication provides insights into the architecture of crop advisory systems 
 JETIR
-.
+
