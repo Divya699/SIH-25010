@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:26.09.2025
 ## Register Number:25018016
-## Name: Divyapriya S
+## Name: Divyapriya.S
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
